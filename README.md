@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WhitePegasis
 - 👀 I’m interested in coding and development.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m done with MERN stack.
+- 🌱 I’m currently learning genai, langchain, llama-index, cloud, system design.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : whitepegasus1603@gmail.com
 
